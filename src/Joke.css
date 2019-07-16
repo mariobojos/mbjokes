@@ -1,0 +1,14 @@
+.joke {
+    margin: 6px;
+    padding: 3px 6px;
+    border: 1px solid #225292;
+}
+
+.joke-title {
+    padding: 3px 6px;
+}
+
+.punch-line {
+    margin-top: -6px;
+    font-style: italic;
+}
