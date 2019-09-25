@@ -11,8 +11,6 @@ const App = () => {
     return ( <Joke joke={{ title:joke.title, question:joke.question, punchLine:joke.punchLine}} />);
   });
 
-  console.log(jokesComponent);
-
   return (
       <div className="">
         <h2 style={{ marginLeft: "6px" }}>Butt of the Joke</h2>
