@@ -60,7 +60,7 @@ const jokesData = [
             "\"No\"\n" +
             "\"Two hunderd dollars?\"\n" +
             "\"No\"\n" +
-            "\"Tive hundred dollars?\"\n" +
+            "\"Five hundred dollars?\"\n" +
             "The girl thought, what harm can it do? \"Sure\".\n" +
             "The girl loosened her bikini and the man slipped his hand in her bikini.\n" +
             "While feeling her sexy, juicy boobs, the guy said, \"OH MY GOD, OH MY GOD, OH MY GOD\"\n" +
